@@ -1,7 +1,8 @@
 # QtCourse
 
 《Qt 应用程序开发》课程作业仓库 —— **第 2 周作业**  
-姓名：陈萱欣　学号：2023414290208
+姓名：陈萱欣　学号：2023414290208  
+GitHub 远程仓库：<https://github.com/chenxuanxin2023/QtCourse>
 
 ---
 
