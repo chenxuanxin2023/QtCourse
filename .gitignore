@@ -32,3 +32,6 @@ Thumbs.db
 desktop.ini
 .DS_Store
 *.log
+
+# ---- 个人操作笔记（不入库） ----
+GitHub注册与推送指引.md
