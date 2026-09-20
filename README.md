@@ -84,3 +84,4 @@ mingw32-make -f Makefile.Release
 
 - 任务一（About 窗口）：见 `screenshots/` 目录截图。
 - 任务二（GitHub 同步）：本仓库即为同步结果，提交记录见 `git log`。
+- 作业文档：`第2周作业-陈萱欣-完成版.docx`（含任务一运行截图、GitHub 仓库页面与推送成功截图）。
