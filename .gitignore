@@ -1,0 +1,29 @@
+# ---- Qt / qmake 构建产物 ----
+build/
+build-*/
+Makefile
+Makefile.Debug
+Makefile.Release
+*.o
+*.obj
+*.exe
+*.dll
+.qmake.stash
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+
+# ---- Qt Creator 用户配置 ----
+*.pro.user
+*.pro.user.*
+
+# ---- 本地辅助工具（不入库） ----
+_tools/
+samp2_4App.zip
+
+# ---- 系统杂物 ----
+Thumbs.db
+desktop.ini
+.DS_Store
+*.log
